@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="botao1">Apertar Botão</string>
+    <string name="aprenderSobreImagem">Aprenda sobre edição de imagem</string>
+    <string name="dataPublicacao">16/12/2020</string>
+    <string name="nomeAdriel">Adriel Muniz</string>
+    <string name="botaoProximo">Próximo</string>
+    <string name="botaoAnterior">Anterior</string>
+</resources>
